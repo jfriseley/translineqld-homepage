@@ -8,7 +8,7 @@ cascade:
     # featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
-# Welcome to Transline QLD
+# We are Stronger Together
 
 Transline QLD aims to provide a space for trans, gender-diverse and questioning people in Queensland to discuss their feelings about their gender and identity. 
 
