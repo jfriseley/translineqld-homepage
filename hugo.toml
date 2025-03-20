@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Telephone support line 10am-4pm Monday-Friday: 0488 199 129'
+title = 'Transline QLD'
+description = 'Telephone support line 10am-4pm Monday-Friday: 0488 199 129'
 theme = 'ananke'
 canonifyURLs = true
 
