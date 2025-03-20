@@ -1,3 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Telephone support line 10am-4pm Monday-Friday: 0488 199 129'
+theme = 'ananke'
