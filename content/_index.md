@@ -4,7 +4,7 @@ date: 2025-03-20
 description: "Stronger Together"
 draft: false
 cascade:
-   featured_image: '/images/pexels-steve-1704120.jpg'
+   featured_image: '/images/trans-1792756_1280.jpg'
     # featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
 
